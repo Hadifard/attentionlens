@@ -1,9 +1,6 @@
 # ==============================================================================
 # AttentionLens - Explainable AI for Transformers (PyTorch)
 # Author  : Hadi Sarhangi Fard  |  GitHub: @Hadifard
-# File    : model.py
-# Purpose : Tiny causal transformer that exposes every attention matrix and supports head ablation.
-# License : MIT (see LICENSE)
 # ==============================================================================
 import torch
 import torch.nn as nn
