@@ -1,9 +1,6 @@
 # ==============================================================================
 # AttentionLens - Explainable AI for Transformers (PyTorch)
 # Author  : Hadi Sarhangi Fard  |  GitHub: @Hadifard
-# File    : train.py
-# Purpose : Trains the TinyGPT and logs loss, accuracy and per-head circuit scores over time.
-# License : MIT (see LICENSE)
 # ==============================================================================
 import json, sys, time
 import torch
