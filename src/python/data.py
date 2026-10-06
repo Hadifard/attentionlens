@@ -1,9 +1,6 @@
 # ==============================================================================
 # AttentionLens - Explainable AI for Transformers (PyTorch)
 # Author  : Hadi Sarhangi Fard  |  GitHub: @Hadifard
-# File    : data.py
-# Purpose : Synthetic 'periodic random sequence' task with a variable period (forces content-based induction).
-# License : MIT (see LICENSE)
 # ==============================================================================
 import torch
 
