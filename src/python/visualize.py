@@ -1,9 +1,6 @@
 # ==============================================================================
 # AttentionLens - Explainable AI for Transformers (PyTorch)
 # Author  : Hadi Sarhangi Fard  |  GitHub: @Hadifard
-# File    : visualize.py
-# Purpose : Matplotlib figures used in the README (training curves, attention maps, ablations).
-# License : MIT (see LICENSE)
 # ==============================================================================
 import os
 import numpy as np
