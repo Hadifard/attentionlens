@@ -1,9 +1,6 @@
 # ==============================================================================
 # AttentionLens - Explainable AI for Transformers (PyTorch)
 # Author  : Hadi Sarhangi Fard  |  GitHub: @Hadifard
-# File    : analyze.py
-# Purpose : Engineering analysis: head scores, entropy, head ablation and circuit composition.
-# License : MIT (see LICENSE)
 # ==============================================================================
 import json, os, torch
 from model import TinyGPT
