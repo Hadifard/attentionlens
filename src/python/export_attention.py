@@ -1,9 +1,6 @@
 # ==============================================================================
 # AttentionLens - Explainable AI for Transformers (PyTorch)
 # Author  : Hadi Sarhangi Fard  |  GitHub: @Hadifard
-# File    : export_attention.py
-# Purpose : Exports real attention weights of the trained model to JSON for the browser viewer.
-# License : MIT (see LICENSE)
 # ==============================================================================
 import json, os, torch
 from analyze import load_model, RES
